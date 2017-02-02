@@ -1,4 +1,4 @@
-package com.nyksus;
+package com.nyksus.sample;
 
 import java.util.concurrent.atomic.AtomicLong;
 import org.springframework.web.bind.annotation.RequestMapping;

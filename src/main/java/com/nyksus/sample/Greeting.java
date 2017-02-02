@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.nyksus;
+package com.nyksus.sample;
 
 /**
  * @author sharad
