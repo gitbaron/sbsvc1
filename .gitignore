@@ -13,3 +13,6 @@ bin/
 
 # vscode settings
 .vscode/
+
+# MAC OS hidden file
+/.DS_Store
