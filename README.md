@@ -151,4 +151,7 @@ Webservice using springboot and gradle
 	```
 	{"id":2,"content":"Hello, User!"}
 	```
+8. The Persons service
+	There is also a persons service that returns an array of pre-coded person names and their ids. Visit ```http://localhost:8080/persons``` to get all the persons.
+	Then use the array position (starting with 0) to get the particular person using ```http://localhost:8080/persons/{id}```. Notice that using id value 4 will return an error. 
 ENJOY !! :thumbsup:
