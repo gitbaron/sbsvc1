@@ -1,7 +1,15 @@
-/bin/
-/build/
+# gradle settings 
+build/
 .gradle/
+# gradle wrapper
+gradle/
+gradlew*
+
+# eclipse settings
 .classpath
 .settings/
 .project
+bin/
+
+# vscode settings
 .vscode/
